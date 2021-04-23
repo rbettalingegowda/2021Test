@@ -1,0 +1,6 @@
+Hi
+How are you
+
+Welcome to git tutorial
+
+echo "**********welcome*********"
